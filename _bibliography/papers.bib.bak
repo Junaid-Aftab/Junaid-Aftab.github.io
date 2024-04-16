@@ -13,7 +13,7 @@
   year={2017},
   doi={10.1038/s41598-017-11787-9},
   html={https://doi.org/10.1038/s41598-017-11787-9},
-  preview={zeno.png}
+  preview={zeno.pdf}
 }
 
 @misc{aftab2024multiproduct,
@@ -36,5 +36,5 @@ evolution time and precision.},
       archivePrefix={arXiv},
       primaryClass={quant-ph},
       arxiv={arXiv:2403.08922},
-      preview={schrodinger2.png}
+      preview={schrodinger.png}
 }
