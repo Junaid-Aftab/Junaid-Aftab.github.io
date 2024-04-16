@@ -3,6 +3,15 @@
 
 @string{aps = {American Physical Society,}}
 
+@book{einstein1956investigations,
+  bibtex_show={true},
+  title={Investigations on the Theory of the Brownian Movement},
+  author={Einstein, Albert},
+  year={1956},
+  publisher={Courier Corporation},
+  preview={brownian-motion.gif}
+}
+
 
 @article{PhysRev.47.777,
   abbr={PhysRev},
@@ -27,6 +36,15 @@
   selected={true}
 }
 
+@book{przibram1967letters,
+  bibtex_show={true},
+  title={Letters on wave mechanics},
+  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
+  year={1967},
+  publisher={Vision},
+  preview={wave-mechanics.gif}
+}
+
 @article{aftab2017analyzing,
   title={Analyzing the Quantum Zeno and anti-Zeno effects using optimal projective measurements},
   author={Aftab, M.J. and Chaudhry, A.Z.},
@@ -37,28 +55,14 @@
   year={2017},
   doi={10.1038/s41598-017-11787-9},
   url={https://doi.org/10.1038/s41598-017-11787-9},
-  preview={zeno_equation.png}
+  preview={wave-mechanics.gif}
 }
 
 @misc{aftab2024multiproduct,
       title={Multi-product Hamiltonian simulation with explicit commutator scaling}, 
       author={Junaid Aftab and Dong An and Konstantina Trivisa},
-      abstract={The well-conditioned multi-product formula (MPF), proposed by [Low, Kliuchnikov, and Wiebe,
-2019], is a simple high-order time-independent Hamiltonian simulation algorithm that implements a linear
-combination of standard product formulas of low order. While the MPF aims to simultaneously exploit
-commutator scaling among Hamiltonians and achieve near-optimal time and precision dependence, its
-lack of a rigorous error bound on the nested commutators renders its practical advantage ambiguous.
-In this work, we conduct a rigorous complexity analysis of the well-conditioned MPF, demonstrating
-explicit commutator scaling and near-optimal time and precision dependence at the same time. Using
-our improved complexity analysis, we present several applications of practical interest where the MPF
-based on a second-order product formula can achieve a polynomial speedup in both system size and
-evolution time, as well as an exponential speedup in precision, compared to second-order and even higherorder product formulas. Compared to post-Trotter methods, the MPF based on a second-order product
-formula can achieve polynomially better scaling in system size, with only poly-logarithmic overhead in
-evolution time and precision.},
       year={2024},
       eprint={2403.08922},
       archivePrefix={arXiv},
-      primaryClass={quant-ph},
-      url={https://arxiv.org/abs/2403.08922},
-      preview={multi-product.png}
+      primaryClass={quant-ph}
 }
