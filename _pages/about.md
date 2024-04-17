@@ -19,3 +19,5 @@ Welcome! I am a graduate student in the [Department of Mathematics](https://www-
 - Quantum Algorithms	
 - Quantum Machine Learning
 - Topological Quantum Computation
+
+You can [download my CV here]({% link /assets/pdf/Junaid-Aftab-CV %}).

@@ -4,7 +4,7 @@ permalink: /repositories/
 title: Repositories
 description: I like writing code. Here's a summary of my Github profile
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 ## GitHub users
