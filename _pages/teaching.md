@@ -14,12 +14,12 @@ nav_order: 2
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="math141" class="card-title">Elementary Calculus</h5>
+        <h5 id="math121" class="card-title">Elementary Calculus</h5>
         <h6 class="card-subtitle font-italic">Instructor, Summer '24</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          121
+          MATH 121
         </span>
       </div>
     </div>
@@ -48,7 +48,7 @@ nav_order: 2
     <div class="row">
       <div class="col-sm-10">
         <h5 id="math141" class="card-title">Fundamental Concepts of Differential Geometry</h5>
-        <h6 class="card-subtitle font-italic">Instructor, Summer '24</h6>
+        <h6 class="card-subtitle font-italic">Grader and Guest Lecturer, Spring '24</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
@@ -60,7 +60,7 @@ nav_order: 2
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            MATH 740 is a basic introduction to graduate-level differential geometry. I served as the grader for this class. I was also tasked to lead one problem session, and deliver a 
+            MATH 740 is a basic introduction to graduate-level differential geometry. I served as the grader for this class. I was also tasked to lead one problem session and deliver a 
             lecture on the Hopf-Rinow theorem.
           </div>
           <div class="col-sm-3">
@@ -84,7 +84,7 @@ nav_order: 2
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          141
+          MATH 141
         </span>
       </div>
     </div>
