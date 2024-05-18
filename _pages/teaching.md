@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<h3 style="color: #4b9cd3;" id="umd">University of Maryland</h3>
+<h3 id="umd">University of Maryland</h3>
 
 <!-- MATH 141 (Calc II) -->
 <div class="card mt-3">
