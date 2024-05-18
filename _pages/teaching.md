@@ -9,7 +9,7 @@ nav_order: 2
 
 <h3 id="umd">University of Maryland</h3>
 
-<!-- MATH 141 (Calc II) -->
+<!-- MATH 141 (Calc II) Summer 22 -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -30,13 +30,14 @@ nav_order: 2
             Math 141 is a continuation of MATH 140 (Calculus I). The course covers topics such as techniques of integration, improper integrals, applications of integration, exponential and logarithmic functions, sequences and series.
           </div>
           <div class="col-sm-3">
-             <a href="assets/pdf/MATH141Summer22Syllabus.pdf">Syllabus</a>&nbsp;
-             <a href="assets/pdf/MATH141Summer22Quizzes.pdf">Quizzes</a>&nbsp;
-             <a href="assets/pdf/MATH141Summer22Exams.pdf">Exams</a>&nbsp;
-          </div>
+             <a href= "assets/pdf/MATH141Summer22Syllabus.pdf">Syllabus</a>
+             <br>
+              <a href= "assets/pdf/MATH141Summer22Quizzes.pdf">Quizzes</a>     
+              <br>        
+              <a href= "assets/pdf/MATH141Summer22Exams.pdf">Exams</a>          
+              </div>
         </div>
       </li>
     </ul>
   </div>
 </div>
-
