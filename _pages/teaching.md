@@ -31,9 +31,9 @@ nav_order: 2
             MATH 141 is a continution of MATH 140. It course covers topics such as techniques of integration, improper integrals, applications of integration, exponential and logarithmic functions, sequences and series.
           </div>
           <div class="col-sm-3">
-          [Syllabus]({% link /assets/MATH141Summer22Syllabus.pdf %})
-          [Quizzes]({% link /assets/MATH141Summer22Quizzes.pdf %})
-          [Exams]({% link /assets/MATH141Summer22Exams.pdf %})
+          [Syllabus]({% link /assets/pdf/MATH141Summer22Syllabus.pdf %})
+          [Quizzes]({% link /assets/pdf/MATH141Summer22Quizzes.pdf %})
+          [Exams]({% link /assets/pdf/MATH141Summer22Exams.pdf %})
           </div>
         </div>
           </div>
