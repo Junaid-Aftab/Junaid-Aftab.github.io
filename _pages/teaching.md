@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<h3 style="color: #4b9cd3;" id="unc">University of Maryland</a></h3>
+<h3 style="color: #4b9cd3;" id="umd">University of Maryland</a></h3>
 
 <!-- COMP 541 (Digital Logic and Computer Design) -->
 <div class="card mt-3">
@@ -27,10 +27,10 @@ nav_order: 2
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            I roughly <strong>doubled</strong> the potential audience of COMP 541's final project simulator by porting, along with a classmate, the original version (C#, Windows-only) to Java (cross-platform). It is in-use in COMP 541 and maintained by me.
+            Math 141 is a continuation of MATH 140 (Calculus I). The course covers topics such as techniques of integration, improper integrals, applications of integration, exponential and logarithmic functions, sequences and series.
           </div>
           <div class="col-sm-3">
-            <a href="/projects/mips-emulator">MIPS Emulator</a>&nbsp;(<a href="https://github.com/madiali/mips-emulator">GitHub</a>)
+             [CV]({% link /assets/pdf/CV.pdf %}).
           </div>
         </div>
       </li>
