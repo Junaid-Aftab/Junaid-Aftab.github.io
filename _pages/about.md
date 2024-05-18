@@ -14,10 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! My name is Junaid Aftab. I am a graduate student in the [Department of Mathematics](https://www-math.umd.edu/people/graduate-students.html) at the University of Maryland, College Park.  My research interests are in mathematical problems arising in quantum information science. In particular, I am interested in:
-
-- Quantum Algorithms: I am interested in theoretically exploring the power and limitations of quantum algorithms for both the near-term and fault-tolerant regimes.
-- Topological Quantum Computation: I am interested in using techniques from algebra and geometry to study the classification of topological phases of matter.
+Welcome! I am a graduate student in the [Department of Mathematics](https://www-math.umd.edu/people/graduate-students.html) at the University of Maryland, College Park.  My research interests are in mathematical problems arising in quantum information science. In particular, I am interested in quantum algorithms, topological quantum computation (TQC), and topological phases of matter (TPM).
 
 The slogan **Pure × Applied** captures my philosophy in approaching mathematics. I endeavor to adopt a holistic perspective, employing techniques from various mathematical disciplines to solve problems of interest to me.
 
