@@ -7,4 +7,4 @@ nav: true
 nav_order: 2
 ---
 
-<h3 style="color: #4b9cd3;" id="unc"><a href="https://unc.edu">University of Maryland</a></h3>
+<id="umd">University of Maryland</a></h3>
