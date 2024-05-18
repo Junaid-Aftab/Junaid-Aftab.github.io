@@ -14,12 +14,12 @@ nav_order: 2
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="math141" class="card-title">Calculus II</h5>
-        <h6 class="card-subtitle font-italic">Instructor, Summer '22</h6>
+        <h5 id="math141" class="card-title">Elementary Calculus</h5>
+        <h6 class="card-subtitle font-italic">Instructor, Summer '24</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          141
+          121
         </span>
       </div>
     </div>
