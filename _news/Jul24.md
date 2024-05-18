@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending the Groundwork for Operator Algebras Lecture Series ([GOALS '24](https://users.math.msu.edu/users/banelson/conferences/GOALS.html)) at IPAM, UCLA from July 15 to July 27.  to further my *goal* of understanding the role played by operator algebras in TQC and TPM.
+I will be attending the *Groundwork for Operator Algebras Lecture Series* ([GOALS '24](https://users.math.msu.edu/users/banelson/conferences/GOALS.html)) at IPAM, UCLA from July 15 to July 27.  to further my *goal* of understanding the role played by operator algebras in TQC and TPM.
