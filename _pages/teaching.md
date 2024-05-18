@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<id="umd">University of Maryland</h3>
+<h3 style="color: #4b9cd3;" id="umd">University of Maryland</h3>
 
 <!-- COMP 541 (Digital Logic and Computer Design) -->
 <div class="card mt-3">
