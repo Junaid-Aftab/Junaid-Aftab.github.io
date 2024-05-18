@@ -2,11 +2,9 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:  This page includes a selected list of courses I have taught. Please see my CV for the full list of courses.
 nav: true
 nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<h3 style="color: #4b9cd3;" id="University of Maryland, College Park">
