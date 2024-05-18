@@ -9,6 +9,39 @@ nav_order: 2
 
 <h3 id="umd">University of Maryland</h3>
 
+<!-- MATH 120 (Elem Calc) Summer 24 -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="math141" class="card-title">Calculus II</h5>
+        <h6 class="card-subtitle font-italic">Instructor, Summer '22</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          141
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            MATH 120 introduces the basic ideas of differential and integral calculus to non-STEM majors.
+          </div>
+          <div class="col-sm-3">
+             <a href= "/assets/pdf/MATH121Summer22Syllabus.pdf">Syllabus</a>
+             <br>
+              <a href= "/assets/pdf/MATH121Summer22Quizzes.pdf">Quizzes</a>     
+              <br>        
+              <a href= "/assets/pdf/MATH121Summer22Exams.pdf">Exams</a>          
+              </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
 <!-- MATH 141 (Calc II) Summer 22 -->
 <div class="card mt-3">
   <div class="p-3">
