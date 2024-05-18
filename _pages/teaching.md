@@ -9,13 +9,13 @@ nav_order: 2
 
 <h3 style="color: #4b9cd3;" id="umd">University of Maryland</h3>
 
-<!-- COMP 541 (Digital Logic and Computer Design) -->
+<!-- MATH 141 (Calc II) -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
         <h5 id="math141" class="card-title">Calculus II</h5>
-        <h6 class="card-subtitle font-italic">Instructor Summer '22</h6>
+        <h6 class="card-subtitle font-italic">Instructor, Summer '22</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
@@ -30,7 +30,7 @@ nav_order: 2
             Math 141 is a continuation of MATH 140 (Calculus I). The course covers topics such as techniques of integration, improper integrals, applications of integration, exponential and logarithmic functions, sequences and series.
           </div>
           <div class="col-sm-3">
-             [Syllabus]({% link assets/pdf/MATH141Summer22Syllabus.pdf %})
+		You can [download my CV here]({% link /assets/pdf/CV.pdf %})
           </div>
         </div>
       </li>
