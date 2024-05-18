@@ -30,11 +30,11 @@ nav_order: 2
             MATH 120 introduces the basic ideas of differential and integral calculus to non-STEM majors.
           </div>
           <div class="col-sm-3">
-             <a href= "/assets/pdf/MATH121Summer22Syllabus.pdf">Syllabus</a>
+             <a href= "/assets/pdf/MATH121Summer24Syllabus.pdf">Syllabus</a>
              <br>
-              <a href= "/assets/pdf/MATH121Summer22Quizzes.pdf">Quizzes</a>     
+              <a href= "/assets/pdf/MATH121Summer24Quizzes.pdf">Quizzes</a>     
               <br>        
-              <a href= "/assets/pdf/MATH121Summer22Exams.pdf">Exams</a>          
+              <a href= "/assets/pdf/MATH121Summer24Exams.pdf">Exams</a>          
               </div>
         </div>
       </li>
