@@ -27,8 +27,7 @@ nav_order: 2
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            MATH 120 introduces the basic ideas of differential and integral calculus to non-STEM majors.
-          </div>
+            MATH 120 introduces the basic ideas of differential and integral calculus to non-STEM majors.  I delivered lectures and created syllabus, quizzes, exams, and homework for the course.          </div>
           <div class="col-sm-3">
              <a href= "/assets/pdf/MATH120Summer24Syllabus.pdf">Syllabus</a>
              <br>
@@ -92,7 +91,7 @@ nav_order: 2
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            Math 141 is a continuation of MATH 140 (Calculus I). The course covers topics such as techniques of integration, improper integrals, applications of integration, exponential and logarithmic functions, sequences, and series.
+            Math 141 is a continuation of MATH 140 (Calculus I) and covers topics such as techniques of integration, improper integrals, applications of integration, exponential and logarithmic functions, sequences, and series. I delivered lectures and created syllabus, quizzes, exams, and homework for the course.
           </div>
           <div class="col-sm-3">
              <a href= "/assets/pdf/MATH141Summer22Syllabus.pdf">Syllabus</a>
