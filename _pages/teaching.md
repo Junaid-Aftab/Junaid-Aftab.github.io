@@ -31,9 +31,9 @@ nav_order: 2
           <div class="col-sm-3">
              <a href= "/assets/pdf/MATH120Summer24Syllabus.pdf">Syllabus</a>
              <br>
-              <a href= "/assets/pdf/MATH121Summer24Quizzes.pdf">Quizzes</a>     
+              <a href= "/assets/pdf/MATH120Summer24Quizzes.pdf">Quizzes</a>     
               <br>        
-              <a href= "/assets/pdf/MATH121Summer24Exams.pdf">Exams</a>          
+              <a href= "/assets/pdf/MATH120Summer24Exams.pdf">Exams</a>          
               </div>
         </div>
       </li>
