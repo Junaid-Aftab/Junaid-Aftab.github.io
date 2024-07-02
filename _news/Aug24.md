@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending the *C*-Algebraic Quantum Mechanics and Topological Phases of Matter* [workshop](https://sites.google.com/colorado.edu/caqm) at CU Boulder from July 29 to August 2. I am excited to learn more about the operator algebraic approach to TQC and TPM.
+I will be attending the *C^*-Algebraic Quantum Mechanics and Topological Phases of Matter* [workshop](https://sites.google.com/colorado.edu/caqm) at CU Boulder from July 29 to August 2. I am excited to learn more about the operator algebraic approach to TQC and TPM.
