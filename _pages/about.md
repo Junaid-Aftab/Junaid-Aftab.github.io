@@ -19,7 +19,6 @@ Welcome! I am a graduate student in the [Department of Mathematics](https://www-
 * Quantum Algorithms
 * Classification of Topological Phases of Matter (TPM)
 * Topological Quantum Computation
-* Quantum Error Correction
 
 The slogan **Pure × Applied** captures my philosophy in approaching mathematics. I keep an open mind, and I am keen to learn new mathematical techniques to solve problems of interest to me.
 
